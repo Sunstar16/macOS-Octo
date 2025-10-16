@@ -27,7 +27,7 @@
 		<WallpaperSelector />
 	{/await}
 {:else if app_id === 'purus-twitter'}
-	{#await import('./PurusProfile/PurusProfile.svelte') then { default: PurusProfile }}
+	{#await import('./PurusProfile/PurusProfile.svelte') then { default: Sunstar16 Profile }}
 		<PurusProfile />
 	{/await}
 {:else}
