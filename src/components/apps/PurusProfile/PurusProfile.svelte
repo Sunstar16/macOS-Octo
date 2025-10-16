@@ -24,7 +24,7 @@
 
 			<hr />
 
-			<a href="https://www.puruvj.dev/twitter" use:external>
+			<a href="https://twitter.com/sunstar_16" use:external>
 				<TwitterIcon />
 				Twitter
 			</a>
