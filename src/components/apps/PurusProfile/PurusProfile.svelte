@@ -28,7 +28,7 @@
 				<TwitterIcon />
 				Twitter
 			</a>
-			<a href="https://www.puruvj.dev/github" use:external> <GithubIcon /> Github </a>
+			<a href="https://github.com/Sunstar16" use:external> <GithubIcon /> Github </a>
 			<a href="https://www.puruvj.dev/devto" use:external> <DevToIcon /> Dev.to </a>
 		</nav>
 	</aside>
@@ -38,7 +38,7 @@
 
 		<br />
 
-		<h1>Hi, I'm Puru</h1>
+		<h1>Hi, I'm Sunstar16</h1>
 
 		<h2>
 			I'm the creator of macOS Web, which you're on right now
@@ -48,8 +48,8 @@
 		<br /><br />
 
 		<p>
-			I am a fullstack web developer, with an infinite amount of love for frontend web development,
-			esp JavaScript, TypeScript, and for frontend frameworks like Svelte, Vue and React
+			I am a web developer, with an infinite amount of love for web development,
+			esp JavaScript, TypeScript, and for frontend frameworks, being my first time with Svelte, Vue and React
 			<img src="/emojis/star-struck.png" alt="Star Struck face emoji" class="emoji" />
 		</p>
 
